@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Moneycontrol"
+        },
+        "author": "Moneycontrol News",
+        "title": "NASA shares video of the solar eclipse as seen from space. Watch - Moneycontrol",
+        "description": "NASA has shared a video of Monday's total solar eclipse, as viewed from the International Space Station. Footage shared by NASA shows the moon’s shadow above earth.",
+        "url": "https://www.moneycontrol.com/news/trends/nasa-shares-video-of-the-solar-eclipse-as-seen-from-space-watch-12603071.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/04/MixCollage-09-Apr-2024-07-50-AM-9148-770x433.jpg",
+        "publishedAt": "2024-04-09T02:26:47Z",
+        "content": "NASA has shared a breath-taking video of Mondays total solar eclipse, as viewed from the International Space Station. The solar eclipse swept across North America on Monday, leaving millions of viewe… [+1459 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Total solar eclipse: Continent watches in wonder during rare event - BBC.com",
+        "description": "Stunning spectacle is witnessed by millions across the continent. Here are some of the stories.",
+        "url": "https://www.bbc.com/news/world-us-canada-68766846",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183BC/production/_133106299_image.png",
+        "publishedAt": "2024-04-08T23:19:38Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Livemint",
+        "title": "Solar Eclipse 2024: What are ISO-certified eclipse glasses and why should you wear them? | Mint - Mint",
+        "description": "A total solar eclipse on April 8 will create a path of totality where the moon covers the sun, darkening the sky. Eclipse glasses meeting ISO 12312-2 standard are essential for safe viewing to protect eyes from harmful solar rays.",
+        "url": "https://www.livemint.com/science/news/solar-eclipse-2024-what-are-iso-certified-eclipse-glasses-and-why-should-you-wear-them-11712589521519.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/08/1600x900/solar_eclipse_1712589795443_1712589795986.jpg",
+        "publishedAt": "2024-04-08T15:27:08Z",
+        "content": "The moon will blot out the sun for millions of people in a total solar eclipse occurring on Monday, April 8. As the rare astronomical phenomenon dawns upon us, it is important the skygazers don the c… [+2881 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Zoom"
+        },
+        "author": "TN Science Desk",
+        "title": "NASA Alert: Two Airplane-sized Asteroids Racing Towards Earth Today - Check Details - Times Now",
+        "description": "On the day of the total solar eclipse, NASA has warned that two airplane-sized asteroids are moving towards Earth at a close distance. Here's what NASA has revealed.",
+        "url": "https://www.timesnownews.com/technology-science/nasa-alert-two-airplane-sized-asteroids-racing-towards-earth-today-check-details-article-109134072",
+        "urlToImage": "https://static.tnn.in/thumb/msid-109134138,thumbsize-96246,width-1280,height-720,resizemode-75/109134138.jpg",
+        "publishedAt": "2024-04-08T11:02:21Z",
+        "content": "Realme P1 And P1 Pro Set To Launch In India On April 15: Check Expected Price, Specifications, Features"
+      }
+    ]
+  }
